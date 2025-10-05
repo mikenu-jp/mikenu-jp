@@ -1,7 +1,7 @@
-# Hi there, I'm mikenu! 👋
+# Hi there, I'm Mikenu Takeru! 👋
 
-🇯🇵 **Linux Desktop User (10+ Years)** and **Pop!_OS / COSMIC DE** Japanese Localization Contributor.
-I am focused on making the desktop experience better through high-quality localization.
+🇯🇵 **Independent Contributor** & **Linux Desktop User (10+ Years)**, focused on Japanese Localization for **Pop!_OS / COSMIC DE**.
+I am committed to making the desktop experience better through high-quality localization and continuous testing.
 
 ---
 
